@@ -1,0 +1,79 @@
+.footer {
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    width: 500px;
+    height: auto;
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    z-index: 1;
+}
+#top {
+    position: absolute;
+    left: 100px;
+    top: 0;
+    width: 700px;
+    height: 100px;
+    background-color: seagreen;
+    color: black;
+    text-align: center;
+    z-index: 2;
+}
+
+#lewo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 400px;
+    background-color: forestgreen;
+    z-index: 3;
+}
+#prawo {
+    position: absolute;
+    left: 600px;
+    top: 0;
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+#kawa {
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    width: 200px;
+    height: 150px;
+}
+
+#tabela {
+    position: absolute;
+    left: 100px;
+    top: 270px;
+    font-size:10px;
+}
+td {
+    border: 1px solid navy;
+    text-align: center;
+}
+th {
+    border: 1px solid white;
+    text-align: center;
+    background-color:navy;
+    color: white;
+}
+
+#xpp {
+    border: 1px solid white;
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 500px;
+    height: 50px;
+}
