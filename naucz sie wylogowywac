@@ -1,0 +1,154 @@
+phpDownloadsDocumentationGet InvolvedHelpphp8.2
+Search
+Change language: 
+English
+Submit a Pull Request Report a Bug
+PHP Manual ¶
+by:
+Mehdi Achour
+Friedhelm Betz
+Antony Dovgal
+Nuno Lopes
+Hannes Magnusson
+Georg Richter
+Damien Seguy
+Jakub Vrana
+And several others
+2023-10-12
+Edited By: Peter Cowburn
+© 1997-2023 the PHP Documentation Group
+Copyright
+PHP Manual
+Preface
+Getting Started
+Introduction
+A simple tutorial
+Installation and Configuration
+General Installation Considerations
+Installation on Unix systems
+Installation on macOS
+Installation on Windows systems
+Installation on Cloud Computing platforms
+FastCGI Process Manager (FPM)
+Installation of PECL extensions
+Problems?
+Runtime Configuration
+Language Reference
+Basic syntax
+Types
+Variables
+Constants
+Expressions
+Operators
+Control Structures
+Functions
+Classes and Objects
+Namespaces
+Enumerations
+Errors
+Exceptions
+Fibers
+Generators
+Attributes
+References Explained
+Predefined Variables
+Predefined Exceptions
+Predefined Interfaces and Classes
+Predefined Attributes
+Context options and parameters
+Supported Protocols and Wrappers
+Security
+Introduction
+General considerations
+Installed as CGI binary
+Installed as an Apache module
+Session Security
+Filesystem Security
+Database Security
+Error Reporting
+User Submitted Data
+Hiding PHP
+Keeping Current
+Features
+HTTP authentication with PHP
+Cookies
+Sessions
+Dealing with XForms
+Handling file uploads
+Using remote files
+Connection handling
+Persistent Database Connections
+Command line usage — Using PHP from the command line
+Garbage Collection
+DTrace Dynamic Tracing
+Function Reference
+Affecting PHP's Behaviour
+Audio Formats Manipulation
+Authentication Services
+Command Line Specific Extensions
+Compression and Archive Extensions
+Cryptography Extensions
+Database Extensions
+Date and Time Related Extensions
+File System Related Extensions
+Human Language and Character Encoding Support
+Image Processing and Generation
+Mail Related Extensions
+Mathematical Extensions
+Non-Text MIME Output
+Process Control Extensions
+Other Basic Extensions
+Other Services
+Search Engine Extensions
+Server Specific Extensions
+Session Extensions
+Text Processing
+Variable and Type Related Extensions
+Web Services
+Windows Only Extensions
+XML Manipulation
+GUI Extensions
+FAQ — FAQ: Frequently Asked Questions
+General Information
+Mailing lists
+Obtaining PHP
+Database issues
+Installation
+Build Problems
+Using PHP
+Password Hashing — Safe Password Hashing
+PHP and HTML
+PHP and COM
+Miscellaneous Questions
+Appendices
+History of PHP and Related Projects
+Migrating from PHP 8.2.x to PHP 8.3.x
+Migrating from PHP 8.1.x to PHP 8.2.x
+Migrating from PHP 8.0.x to PHP 8.1.x
+Migrating from PHP 7.4.x to PHP 8.0.x
+Migrating from PHP 7.3.x to PHP 7.4.x
+Migrating from PHP 7.2.x to PHP 7.3.x
+Migrating from PHP 7.1.x to PHP 7.2.x
+Migrating from PHP 7.0.x to PHP 7.1.x
+Migrating from PHP 5.6.x to PHP 7.0.x
+Migrating from PHP 5.5.x to PHP 5.6.x
+Debugging in PHP
+Configure options
+php.ini directives
+Extension List/Categorization
+List of Function Aliases
+List of Reserved Words
+List of Resource Types
+List of Available Filters
+List of Supported Socket Transports
+PHP type comparison tables
+List of Parser Tokens
+Userland Naming Guide
+About the manual
+Creative Commons Attribution 3.0
+Index listing
+Changelog
+＋add a note
+User Contributed Notes
+There are no user contributed notes for this page.
+Copyright © 2001-2023 The PHP Group My PHP.net Contact Other PHP.net sites Privacy policy
